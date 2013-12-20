@@ -1,7 +1,7 @@
 {
   "name": "backbone-nestedjson",
   "description": "A toJSON replacement that handles nested objects",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "repository": {
     "url": "git://github.com/toddself/backbone-nestedjson.git"
   },
@@ -22,7 +22,11 @@
     "email": "<todd@selfassembled.org>",
     "url": "http://tck.io"
   },
-  "keywords": ["backbone", "json", "nested models"],
+  "keywords": [
+    "backbone",
+    "json",
+    "nested models"
+  ],
   "license": {
     "type": "MIT",
     "url": "https://github.com/toddself/backbone-nestedjson/blog/master/LICENSE"
