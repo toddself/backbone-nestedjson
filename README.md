@@ -4,7 +4,7 @@
 A simple replacement for `#toJSON` that can handle nested Backbone models.
 
 #Usage
-`npm install -S backbone-nestedtojson`
+`npm install -S backbone-nestedjson`
 
 ```javascript
 var Backbone = require('backbone');
