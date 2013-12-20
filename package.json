@@ -1,7 +1,7 @@
 {
   "name": "backbone-nestedjson",
   "description": "A toJSON replacement that handles nested objects",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "repository": {
     "url": "git://github.com/toddself/backbone-nestedjson.git"
   },
